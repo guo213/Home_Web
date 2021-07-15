@@ -1,3 +1,10 @@
+
+# Node
+node_modules
+.DS_Store
+dist
+*.local
+
 # Logs
 logs
 *.log
